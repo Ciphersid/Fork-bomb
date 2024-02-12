@@ -7,5 +7,4 @@
 : copy it and then paste in linux terminal
 Here’s one with multiple paragraphs and code.
 
-[^1]: :(){ :|:& };:
-```
+[^1]: ``` :(){ :|:& };:
