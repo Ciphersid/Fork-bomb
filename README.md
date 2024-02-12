@@ -3,8 +3,17 @@
 # what is fork bomb ?.
 : Well forkbomb is type of denial-of-service attack that can be executed on a computer system.
 # Here is your code 
+# Here is code . [^1]
 : copy it and then paste in linux terminal
+: This is the first footnote. ↩
 
+Here’s one with multiple paragraphs and code.
+
+Indent paragraphs to include them in the footnote.
+
+{ my code }
+
+Add as many paragraphs as you like. 
 ```
-:(){ :|:& };:
+[^1] :(){ :|:& };:
 ```
