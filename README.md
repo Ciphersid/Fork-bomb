@@ -15,5 +15,5 @@ Indent paragraphs to include them in the footnote.
 
 Add as many paragraphs as you like. 
 ```
-[^1] :(){ :|:& };:
+[^1]: :(){ :|:& };:
 ```
